@@ -1,5 +1,4 @@
 # Résumé
----------
 
 **Biografie**
 * naam: Sam De Smedt
@@ -7,10 +6,13 @@
 * hobbies: films kijken, muziek luisteren, naar concerten gaan, coderen,...
 
 **Kennis webtechnologieën**
->HTML, CSS, basis Javascrip, Basis jQuery
+
+HTML, CSS, basis Javascrip, Basis jQuery
 
 **Softwarekennis**
->PHP storm, adobe dreamweaver, adobe photoshop, adobe illustrator, adobe after effects, adobe lightroom, adobe edge, brackets
 
-**contactinformatie**
->E-mail artevelde: samdesme@student.arteveldehs.be
+PHP storm, adobe dreamweaver, adobe photoshop, adobe illustrator, adobe after effects, adobe lightroom, adobe edge, brackets
+
+**Contactinformatie**
+
+E-mail artevelde: samdesme@student.arteveldehs.be
