@@ -7,10 +7,21 @@
 * Opleiding:
   * **(2008-2014)**: Economie Moderne Talen
   * **(2014-nu)**: Grafische & Digitale Media
+*talen:
+  * Nederlands: moedertaal
+  * Engels: zeer goed
+  * Frans: basis
+  * Duits: basis
  	
 **Kennis webtechnologieën**
 
 HTML, CSS, basis Javascrip, basis jQuery
+
+**Werkervaringen**
+Werk  | Bedrijf | Periode
+------------- | -------------
+Onderhoud  | Volvo Trucks | 07/2015
+
 
 **Softwarekennis**
 
