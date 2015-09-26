@@ -15,6 +15,7 @@ HTML, CSS, basis Javascrip, basis jQuery
 **Softwarekennis**
 
 PHP storm, adobe dreamweaver, brackets,
+
 adobe:
 * photoshop 
 * illustrator
