@@ -5,8 +5,8 @@
 * leeftijd: 19 (02/03/1996)
 * hobbies: films kijken, muziek luisteren, naar concerten gaan, coderen,...
 * Opleiding:
-   **(2008-2014)**: Economie Moderne Talen
-   **(2014-nu)**: Grafische & Digitale Media
+  * **(2008-2014)**: Economie Moderne Talen
+  * **(2014-nu)**: Grafische & Digitale Media
  	
 **Kennis webtechnologieën**
 
