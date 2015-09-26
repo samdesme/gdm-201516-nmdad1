@@ -4,10 +4,13 @@
 * naam: Sam De Smedt
 * leeftijd: 19 (02/03/1996)
 * hobbies: films kijken, muziek luisteren, naar concerten gaan, coderen,...
-
+* Opleiding:
+ 	*(2008-2014): Economie Moderne Talen
+ 	*(2014-nu): Grafische & Digitale Media
+ 	
 **Kennis webtechnologieën**
 
-HTML, CSS, basis Javascrip, Basis jQuery
+HTML, CSS, basis Javascrip, basis jQuery
 
 **Softwarekennis**
 
