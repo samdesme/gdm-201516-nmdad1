@@ -18,9 +18,9 @@
 HTML, CSS, basis Javascrip, basis jQuery
 
 **Werkervaringen**
-Werk  | Bedrijf | Periode
-------------- | -------------
-Onderhoud  | Volvo Trucks | 07/2015
+| Werk  | Bedrijf | Periode |
+| ------------- | ------------- |
+| Onderhoud  | Volvo Trucks | 07/2015 |
 
 
 **Softwarekennis**
