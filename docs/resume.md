@@ -14,7 +14,15 @@ HTML, CSS, basis Javascrip, basis jQuery
 
 **Softwarekennis**
 
-PHP storm, adobe dreamweaver, adobe photoshop, adobe illustrator, adobe after effects, adobe lightroom, adobe edge, brackets
+PHP storm, adobe dreamweaver, brackets,
+adobe:
+* photoshop 
+* illustrator
+* after effects
+* lightroom
+* edge
+* premiere
+* indesign
 
 **Contactinformatie**
 
